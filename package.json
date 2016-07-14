@@ -16,8 +16,5 @@
     "mocha": "1.6.0",
     "nock": "^2.17.0",
     "sinon": "^1.17.2"
-  },
-  "scripts": {
-    "test": "mocha tests/*"
-  } 
+  }
 }
